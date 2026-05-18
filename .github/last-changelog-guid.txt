@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-05-15-github-app-installation-tokens-per-request-override-header
+https://github.blog/changelog/2026-05-17-gpt-5-3-codex-is-now-the-base-model-for-copilot-business-and-enterprise
