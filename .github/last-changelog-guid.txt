@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-05-19-github-copilot-for-eclipse-is-open-source
+https://github.blog/changelog/2026-05-22-staged-publishing-and-new-install-time-controls-for-npm
