@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-05-28-hard-budget-limits-now-available-for-github-advanced-security
+https://github.blog/changelog/2026-05-29-copilot-usage-metrics-api-adds-cohorts-for-ai-adoption
