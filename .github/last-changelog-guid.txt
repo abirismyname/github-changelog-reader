@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-05-29-copilot-usage-metrics-api-adds-cohorts-for-ai-adoption
+https://github.blog/changelog/2026-06-01-evaluation-models-in-auto-for-individual-plans
