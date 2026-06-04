@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-06-02-gpt-4-1-deprecated
+https://github.blog/changelog/2026-05-28-github-copilot-in-visual-studio-code-may-releases
