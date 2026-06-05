@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-05-28-github-copilot-in-visual-studio-code-may-releases
+https://github.blog/changelog/2026-06-04-fix-with-copilot-for-failing-actions-now-in-pro-pro-and-max
