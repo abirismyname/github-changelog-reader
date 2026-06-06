@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-06-04-fix-with-copilot-for-failing-actions-now-in-pro-pro-and-max
+https://github.blog/changelog/2026-06-05-gpt-5-2-and-gpt-5-2-codex-deprecated
