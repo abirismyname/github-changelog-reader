@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-06-05-gpt-5-2-and-gpt-5-2-codex-deprecated
+https://github.blog/changelog/2026-06-09-periodic-code-scanning-of-inactive-repositories
