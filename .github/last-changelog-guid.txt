@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-06-09-dependabot-version-updates-now-support-the-deno-ecosystem
+https://github.blog/changelog/2026-06-09-list-view-and-create-discussions-in-github-cli
