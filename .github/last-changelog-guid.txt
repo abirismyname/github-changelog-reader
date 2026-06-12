@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-06-09-list-view-and-create-discussions-in-github-cli
+https://github.blog/changelog/2026-06-11-github-enterprise-server-3-21-is-now-generally-available
