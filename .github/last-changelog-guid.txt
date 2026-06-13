@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-06-11-github-enterprise-server-3-21-is-now-generally-available
+https://github.blog/changelog/2026-06-12-copilot-code-review-new-configurations-and-controls
