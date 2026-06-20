@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-06-18-upcoming-deprecation-of-opus-4-6-fast
+https://github.blog/changelog/2026-06-19-ai-credits-consumed-per-user-now-in-the-copilot-usage-metrics-api
