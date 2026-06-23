@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-06-19-ai-credits-consumed-per-user-now-in-the-copilot-usage-metrics-api
+https://github.blog/changelog/2026-06-19-new-features-and-claude-as-agent-provider-preview-in-jetbrains-ides
