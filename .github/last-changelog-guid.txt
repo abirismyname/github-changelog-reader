@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-06-23-secret-scanning-adds-extended-metadata-for-replicate-secrets
+https://github.blog/changelog/2026-06-24-self-service-credential-revocation-for-incident-response
