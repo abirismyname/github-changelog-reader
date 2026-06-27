@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-06-25-copilot-code-review-analysis-depth-and-efficiency-updates
+https://github.blog/changelog/2026-06-26-track-total-merges-by-adoption-phase-in-enterprise-and-organization-reports
