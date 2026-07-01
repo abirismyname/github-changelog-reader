@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-06-29-claude-opus-4-8-fast-mode-is-now-in-preview-for-github-copilot
+https://github.blog/changelog/2026-06-30-claude-sonnet-5-is-generally-available-for-github-copilot
