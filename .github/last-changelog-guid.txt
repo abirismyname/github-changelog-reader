@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-06-30-claude-sonnet-5-is-generally-available-for-github-copilot
+https://github.blog/changelog/2026-07-02-issue-fields-are-now-generally-available
