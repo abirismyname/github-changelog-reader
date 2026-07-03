@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-07-02-issue-fields-are-now-generally-available
+https://github.blog/changelog/2026-07-02-improved-accuracy-and-coverage-in-copilot-usage-metrics-reports
