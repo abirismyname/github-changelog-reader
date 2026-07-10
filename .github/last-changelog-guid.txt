@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-07-07-innersource-security-advisories-are-generally-available
+https://github.blog/changelog/2026-07-08-github-mobile-improved-filters-and-sorting-for-copilot-sessions
