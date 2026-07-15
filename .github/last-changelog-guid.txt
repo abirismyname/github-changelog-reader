@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview
+https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update
