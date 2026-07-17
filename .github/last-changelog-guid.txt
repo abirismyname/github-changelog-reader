@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-07-15-improvements-to-secret-scanning-and-public-monitoring
+https://github.blog/changelog/2026-07-16-advanced-search-for-projects-is-generally-available
