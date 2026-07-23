@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-07-21-gemini-3-6-flash-is-now-available-in-github-copilot
+https://github.blog/changelog/2026-07-21-new-copilot-usage-metrics-impact-dashboard
