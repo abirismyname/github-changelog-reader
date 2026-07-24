@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-07-21-new-copilot-usage-metrics-impact-dashboard
+https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available
