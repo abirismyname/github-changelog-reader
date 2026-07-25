@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available
+https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot
