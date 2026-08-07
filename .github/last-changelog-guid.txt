@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-08-04-customize-code-scanning-default-setup-at-scale
+https://github.blog/changelog/2026-08-06-auto-draft
