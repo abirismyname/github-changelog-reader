@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-08-13-license-data-quality-improvements
+https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps
