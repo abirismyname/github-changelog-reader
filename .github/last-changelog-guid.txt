@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling
+https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar
