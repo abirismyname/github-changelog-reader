@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-08-21-better-tools-for-managing-blocked-users
+https://github.blog/changelog/2026-08-25-rule-insights-dashboard-generally-available
