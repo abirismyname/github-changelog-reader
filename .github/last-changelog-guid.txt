@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-08-25-rule-insights-dashboard-generally-available
+https://github.blog/changelog/2026-08-26-enterprise-managed-settings-now-support-autoupdate-for-plugin-marketplaces
