@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-08-28-github-copilot-in-visual-studio-august-update-2
+https://github.blog/changelog/2026-08-31-github-copilot-in-vs-code-august-2026-releases
