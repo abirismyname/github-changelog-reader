@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-08-31-github-copilot-in-vs-code-august-2026-releases
+https://github.blog/changelog/2026-09-01-enterprise-live-migrations-from-ghes-to-ghe-com-generally-available
