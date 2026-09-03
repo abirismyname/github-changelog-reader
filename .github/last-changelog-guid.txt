@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-09-01-enterprise-live-migrations-from-ghes-to-ghe-com-generally-available
+https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model
