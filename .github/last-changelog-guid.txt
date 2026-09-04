@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model
+https://github.blog/changelog/2026-09-03-multiple-trusted-publishing-configurations-for-npm
