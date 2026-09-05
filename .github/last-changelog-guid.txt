@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-09-03-multiple-trusted-publishing-configurations-for-npm
+https://github.blog/changelog/2026-09-04-github-copilot-weekly-releases-august-31
