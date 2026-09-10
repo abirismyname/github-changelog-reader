@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains
+https://github.blog/changelog/2026-09-09-codeql-2-27-0-adds-support-for-linux-arm64
