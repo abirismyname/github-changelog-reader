@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics
+https://github.blog/changelog/2026-09-14-configure-cost-and-quality-in-copilot-auto-model-selection
