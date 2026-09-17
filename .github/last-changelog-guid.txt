@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations
+https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys
