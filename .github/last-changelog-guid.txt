@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys
+https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement
