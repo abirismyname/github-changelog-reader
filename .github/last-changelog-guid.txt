@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-09-18-copilot-code-review-an-improved-review-experience
+https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle
