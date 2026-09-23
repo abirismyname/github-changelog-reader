@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle
+https://github.blog/changelog/2026-09-22-opentelemetry-in-the-github-copilot-app
