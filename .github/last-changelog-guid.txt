@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise
+https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator
