@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator
+https://github.blog/changelog/2026-09-28-self-hosted-runner-version-enforcement-date-has-moved
