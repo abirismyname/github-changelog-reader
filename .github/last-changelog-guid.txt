@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-09-28-self-hosted-runner-version-enforcement-date-has-moved
+https://github.blog/changelog/2026-09-29-repository-custom-runner-settings-for-dependabot
