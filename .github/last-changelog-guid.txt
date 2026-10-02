@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing
+https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports
