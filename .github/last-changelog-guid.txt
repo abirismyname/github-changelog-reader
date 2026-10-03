@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports
+https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out
