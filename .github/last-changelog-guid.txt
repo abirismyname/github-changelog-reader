@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-10-21-github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens
+https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2
