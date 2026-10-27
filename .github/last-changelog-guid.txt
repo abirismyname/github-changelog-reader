@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode
+https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available
