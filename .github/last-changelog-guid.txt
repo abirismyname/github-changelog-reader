@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available
+https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication
