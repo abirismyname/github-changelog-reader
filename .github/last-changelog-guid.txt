@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-11-26-route-and-orchestrate-models-with-github-copilot-fusion
+https://github.blog/changelog/2026-10-29-webhook-ip-ranges-added-to-the-meta-api
