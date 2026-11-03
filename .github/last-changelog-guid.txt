@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-10-29-webhook-ip-ranges-added-to-the-meta-api
+https://github.blog/changelog/2026-11-02-security-risk-assessments-include-repository-protection-status
