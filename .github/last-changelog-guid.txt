@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-11-04-codeql-2-27-4-improves-accuracy-and-query-metadata
+https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate
