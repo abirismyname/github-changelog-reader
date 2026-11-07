@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate
+https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates
