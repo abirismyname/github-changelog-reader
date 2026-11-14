@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement
+https://github.blog/changelog/2026-11-12-upcoming-deprecation-of-selected-github-copilot-models-in-december
