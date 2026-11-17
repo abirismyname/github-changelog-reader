@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-11-12-upcoming-deprecation-of-selected-github-copilot-models-in-december
+https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year
