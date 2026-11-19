@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available
+https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli
