@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli
+https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview
