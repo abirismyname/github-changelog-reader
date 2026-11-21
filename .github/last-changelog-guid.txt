@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview
+https://github.blog/changelog/2026-11-20-security-advisory-permissions-are-now-generally-available
