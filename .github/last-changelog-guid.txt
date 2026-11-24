@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-11-20-security-advisory-permissions-are-now-generally-available
+https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview
