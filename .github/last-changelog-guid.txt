@@ -1,1 +1,1 @@
-https://github.blog/changelog/2026-11-24-more-predictable-notifications-on-github-com
+https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization
